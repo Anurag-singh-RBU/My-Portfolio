@@ -26,7 +26,7 @@ Welcome to **My Portfolio** , a modern , visually engaging , and interactive por
 
 ## 🔧 Installation & Setup
 
-To use or contribute to this portfolio:
+To use or contribute to this portfolio :
 
 ### 1. 🍴 Fork this Repository
 
