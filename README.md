@@ -6,7 +6,7 @@ Welcome to **My Portfolio** , a modern , visually engaging , and interactive por
 
 ## ✨ Features
 
-- 🧑‍💻 Interactive 3D Hero Section using `react-three-fiber`
+- 🧑‍💻 Interactive 3D Contact Section using `react-three-fiber`
 - 🎯 Smooth navigation and scroll animations
 - 📱 Fully responsive design
 - 💼 Projects, Skills, Contact sections with modern UI
