@@ -1,12 +1,39 @@
-# React + Vite
+# 🌟 Anurag's 3D Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Anurag's Developer Portfolio** , a modern , visually engaging , and interactive portfolio built with cutting-edge technologies like **React** , **Tailwind CSS** , and **React Three Fiber**.
 
-Currently, two official plugins are available:
+🔗 **Live Site :** [Visit Portfolio](https://my-portfolio-two-delta-16.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🧑‍💻 Interactive 3D Hero Section using `react-three-fiber`
+- 🎯 Smooth navigation and scroll animations
+- 📱 Fully responsive design
+- 💼 Projects, Skills, Contact sections with modern UI
+- ⚡ Built for performance and speed
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Tech Stack
+
+- ⚛️ **React.js** – UI Library  
+- 🎨 **Tailwind CSS** – Utility-first CSS framework  
+- 🌌 **React Three Fiber** – 3D graphics with Three.js in React  
+- 🎬 **Framer Motion** – Smooth animations  
+- 🔧 **Vite** – Lightning-fast build tool
+
+---
+
+## 🔧 Installation & Setup
+
+To use or contribute to this portfolio:
+
+### 1. 🍴 Fork this Repository
+
+Click the `Fork` button on the top-right of the [GitHub repo](https://github.com/Anurag-singh-RBU/My-Portfolio) to copy it under your account.
+
+### 2. 📥 Clone the Repository
+
+```bash
+git clone https://github.com/YOUR-USERNAME/My-Portfolio.git
+cd My-Portfolio
