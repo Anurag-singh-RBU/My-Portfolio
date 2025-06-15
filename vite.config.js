@@ -4,7 +4,7 @@ import { defineConfig } from 'vite'
 
 export default defineConfig({
   plugins: [react()],
-  base : "/ANURAGFOLIO",
+  base: "./",
   optimizeDeps: {
     include: ['react-vertical-timeline-component']
   }
