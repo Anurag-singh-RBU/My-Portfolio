@@ -47,7 +47,7 @@ const About = () => {
 <motion.p
   variants={fadeIn("", "", 0.1, 1)}
   className='mt-4 font-JB text-gray-200 md:text-[15px] max-w-3xl text-[13px] md:leading-[30px] leading-[23px] text-justify'>
-  I am a Code-savvy 
+  I am a Code-saver 
   <span className="mt-4 font-JB text-emerald-200 md:text-[15px] max-w-3xl font-semibold text-[13px] md:leading-[30px] leading-[23px] text-justify"> Software </span> 
   and <span className="mt-4 font-JB text-yellow-200 md:text-[15px] font-semibold max-w-3xl text-[13px] md:leading-[30px] leading-[23px] text-justify">Java </span> 
   developer with experience in TypeScript and JavaScript alongwith modern technologies like 
