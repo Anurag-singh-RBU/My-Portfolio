@@ -1,5 +1,5 @@
 import React from 'react'; // ✅ Required
-import { Analytics } from "@vercel/analytics/next"
+import { Analytics } from '@vercel/analytics/react'
 import ReactDOM from 'react-dom/client';
 import App from './App';
 import './index.css';
