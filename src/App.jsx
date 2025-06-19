@@ -2,8 +2,6 @@ import { BrowserRouter } from "react-router-dom";
 import React, { useEffect, useState } from "react";
 import { About, Contact, Experience, Feedbacks, Hero, Navbar, Tech, Works, StarsCanvas } from "./components";
 import Preloader from "./components/Preloader";
-import SvgMaskHero from "./components/SvgMaskHero";
-import { PaintBoard } from "./components/PaintBoard";
 
 const App = () => {
 
