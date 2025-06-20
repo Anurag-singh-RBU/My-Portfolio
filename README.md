@@ -38,5 +38,7 @@ Click the `Fork` button on the top-right of the [GitHub repo](https://github.com
 git clone https://github.com/YOUR-USERNAME/My-Portfolio.git
 cd My-Portfolio
 
+---
+
 Author : Anurag-singh-RBU
 Credits : Javascript Mastery
