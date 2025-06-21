@@ -40,5 +40,7 @@ cd My-Portfolio
 
 ---
 
+### Credits
+
 Author : Anurag-singh-RBU
 Credits : Javascript Mastery
